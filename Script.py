@@ -10,6 +10,7 @@ def curve():
         pen.forward(1)
 
 # Defining method to draw a full heart
+# Je commente ici juste pour te dire que j'aime les popscycle
 def heart():
 
     pen.fillcolor('red')
